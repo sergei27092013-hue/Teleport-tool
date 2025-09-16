@@ -1,0 +1,4 @@
+local Character = Script.Parent
+local Item = Character:Instance.New('Tool')
+local scr = Script
+scr.Parent = Item
